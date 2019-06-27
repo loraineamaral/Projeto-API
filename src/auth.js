@@ -9,7 +9,7 @@ $(document).ready(function () {
 
       firebase.auth().signInWithEmailAndPassword(email, password)
           .then(function (response) {
-              window.location = './src/home.html' + response.user.uid;
+              window.location = './home.html'
           })
 
           .catch(function (error) {
@@ -32,7 +32,7 @@ $(document).ready(function () {
       firebase.auth().createUserWithEmailAndPassword(email, password)
           .then(function (response) {
             //   writeUserData(email, password, response.user.uid);
-              window.location = 'home.html';
+              window.location = './home.html';
           })
 
           .catch(function (error) {
