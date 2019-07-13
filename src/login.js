@@ -38,7 +38,7 @@ $('#sign-in-btn').click(function (event) {
   });
 
   function signIn(provider) {
-      firebase.auth().signInWithPopup(provider)
+      firebase.auth().signInWithRedirect(provider)
           .then(response => {
               window.location = 'home.html' 
               })
