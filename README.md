@@ -78,6 +78,20 @@ https://marvelapp.com/8hfij0d/
 ## Testes de Usuabilidade
 O protótipo com 10 pessoas. Os usuários conseguiram manipular o protótipo e uma das dúvidas que surgiram foi em relação a como voltar depois da tela final. Foram realizados ajustes a partir deste feedback. 
 
+## Resultado Final
+
+**Para acessar o site, use o link: https://projetoapi-ben.firebaseapp.com**
+
+ Para fazer login, você pode usar os seguintes dados:
+
+ **Usuário: teste@teste.com**
+ 
+ **Senha: 123456**
+
+![print-login](src/assets/img/screen1.png)
+![print-home](src/assets/img/screen2.png)
+
+
 ## Roadmap oficial do projeto
 
 #### versão 1.0.0 (released)
