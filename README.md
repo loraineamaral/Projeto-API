@@ -106,3 +106,5 @@ O protótipo com 10 pessoas. Os usuários conseguiram manipular o protótipo e u
 #### versão 3.0.0 (sem previsão)
 - funcionalidades: permite verificar todas os benefícios de cada programa de cartão de crédito filtrado por centro de interesse (troca de pontos, descontos em ingressos, descontos em compras).
 
+## Sobre o desafio:
+Este projeto é um MVP e foi desenvolvido por uma equipe de 6 alunas em apenas 2 semanas. O produto possuia como finalidade ser apresentado para empresas em um evento organizado pela Laboratoria.
