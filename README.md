@@ -88,6 +88,10 @@ O protótipo com 10 pessoas. Os usuários conseguiram manipular o protótipo e u
  
  **Senha: 123456**
 
+![print-login](src/assets/img/screen1.png)
+![print-home](src/assets/img/screen2.png)
+
+
 ## Roadmap oficial do projeto
 
 #### versão 1.0.0 (released)
